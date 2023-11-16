@@ -219,7 +219,7 @@ body {
     /* background: #b6bfbf; */
 
     background: #d7e0e0;
-    background: url(../../img/Rectangle\ 2.png) no-repeat;
+    background: url(../img/Rectangle\ 2.png) no-repeat;
     background-size: cover;
 
     padding-bottom: 200px;
@@ -374,7 +374,7 @@ body {
 
 .what-main{
 
-background: url(../../img/Rectangle\ 2\ \(1\).png) no-repeat;
+background: url(../img/Rectangle\ 2\ \(1\).png) no-repeat;
 background-size: cover;
 margin-top: 70px;
 
